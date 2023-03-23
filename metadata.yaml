@@ -1,0 +1,36 @@
+_repo: The-Riddle-Club-at-Sunrise-Beach-b-How-they-toured-to-the-shore-what-happened-on-the-sand-and__70321
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Hardy, Alice Dale
+    gutenberg_agent_id: '55341'
+    url: http://www.gutenberg.org/2009/agents/55341
+description: ''
+gutenberg_issued: '2023-03-19'
+identifiers:
+  gutenberg: '70321'
+language: en
+pgterms:marc905: 20220621181905hardy
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: David Edwards, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGrosset & Dunlap, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Riddle Club at Sunrise Beach : $b How they toured to the shore, what happened
+  on the sand and how they solved the mystery of Rattlesnake Island'
+url: http://www.gutenberg.org/ebooks/70321
